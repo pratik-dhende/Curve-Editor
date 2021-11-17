@@ -1,5 +1,5 @@
 # Path Editor
-A Unity Editor to create a textured path using Beziere Curve.
+A Unity Editor to create a textured path using [Bezier Curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
 
 ## Controls
 * Add Anchor: SHIFT LEFT CLICK
