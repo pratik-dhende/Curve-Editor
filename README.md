@@ -6,7 +6,7 @@ A Unity Editor to create a textured path using [Bezier Curve](https://en.wikiped
 * Remove Anchor: SHIFT RIGHT CLICK
 
 ## Demo
-[![AIDemoThumbnail](https://github.com/pratik-dhende/Path-Editor/assets/55596801/889b5b76-38e4-442b-8c53-af2d2ba51080)](https://drive.google.com/file/d/1LrUW3bnIcol0HCbD9gSr5uAeJUDwpBAZ/view?usp=sharing)
+[![AIDemoThumbnail](https://github.com/pratik-dhende/Path-Editor/assets/55596801/889b5b76-38e4-442b-8c53-af2d2ba51080)](https://drive.google.com/file/d/1HBpEyBdCf7NIt2A4hnKPBxTbneh7VRcX/view?usp=sharing)
 
 ## Images
 ![BeziereCurve](https://user-images.githubusercontent.com/55596801/142262106-d4c08073-5476-4a63-943c-936ee1a57507.png)
